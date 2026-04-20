@@ -1,0 +1,52 @@
+```
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env
+.env.*
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+coverage/
+
+# Next.js
+.next/
+out/
+
+# Supabase
+supabase/.temp/
+```
